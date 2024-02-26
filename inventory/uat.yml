@@ -1,0 +1,7 @@
+[uat_webservers]
+172.31.27.65 ansible_user=ec2-user
+172.31.36.61 ansible_user=ec2-user
+
+[lb]
+172.31.20.240 ansible-user=ec2-user
+    
